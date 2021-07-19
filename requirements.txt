@@ -1,2 +1,1 @@
-import pickle
-import streamlit as st
+streamlit==0.84.1
