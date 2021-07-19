@@ -1,6 +1,7 @@
 #%%writefile app.py
 import pickle
 import streamlit as st
+import sklearn
 
 # Load trained model
 pickle_in = open("classifier.pkl", 'rb')
